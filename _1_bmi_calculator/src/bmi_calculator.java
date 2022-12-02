@@ -1,6 +1,5 @@
 import java.util.Scanner;
-
-public class bmi_calculator {
+public class Bmi_calculator {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
